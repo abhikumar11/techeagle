@@ -1,0 +1,6 @@
+export const AUTH_REQUEST="AUTH_REQUEST";
+export const AUTH_SUCCESS="AUTH_SUCCESS";
+export const AUTH_FAIL="AUTH_FAIL";
+export const TASK_REQUEST="TASK_REQUEST";
+export const TASK_SUCCESS="TASK_SUCCESS";
+export const TASK_FAIL="TASK_FAIL";
